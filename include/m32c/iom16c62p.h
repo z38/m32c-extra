@@ -4,7 +4,7 @@
  */
 
 #ifndef _M32C_EXTRA_IOM16C62P_H
-#ifndef _M32C_EXTRA_IOM16C62P_H
+#define _M32C_EXTRA_IOM16C62P_H
 
 #include <m32c/iodef.h>
 

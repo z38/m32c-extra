@@ -73,6 +73,6 @@ union dword_def {
 		char	nc;								/* non use */
 	} byte;
 	unsigned long	dword;
-}
+};
 
 #endif
